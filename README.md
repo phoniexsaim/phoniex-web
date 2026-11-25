@@ -58,10 +58,10 @@ A cutting-edge, high-performance web platform built with **React 19**, **TypeScr
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/phoniexsaim/New-Website.git
+git clone https://github.com/phoniexsaim/phoniex-web.git
 
 # Navigate into the project folder
-cd New-Website
+cd phoniex-web
 
 # Install dependencies
 npm install
